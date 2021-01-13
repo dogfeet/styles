@@ -10,3 +10,4 @@ body.aui-layout { font-family: 'Spoqa Han Sans Neo', -apple-system, "Segoe UI", 
 
 /* jira layout */
 #LGE_header_container { display: none; }
+#announcement-banner { display: none; }
