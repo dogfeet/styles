@@ -3,7 +3,7 @@
 @import url(https://spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
 
 /* common font-family */
-body.aui-layout { font-family: 'Spoqa Han Sans Neo', -apple-system, "Segoe UI", "Ubuntu", "Droid Sans", sans-serif; }
+body.aui-layout { font-family: "Segoe UI", "Ubuntu", "Droid Sans", 'Spoqa Han Sans Neo', -apple-system, sans-serif; }
 
 /* common layout */
 #LGE_header_container { display: none; }
