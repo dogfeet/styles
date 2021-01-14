@@ -7,6 +7,14 @@ body.aui-layout { font-family: "Segoe UI", "Ubuntu", "Droid Sans", 'Spoqa Han Sa
 
 /* common layout */
 #LGE_header_container { display: none; }
+body {
+    font-kerning: normal;
+    font-variant-numeric: tabular-nums;
+    text-align: left;
+    text-rendering: optimizeLegibility;
+    word-break: keep-all; 
+}
+#main-content { line-height: 1.6; }
 
 /* jira layout */
 #announcement-banner { display: none; }
@@ -39,3 +47,5 @@ h1#title-text,
 #description-val h6,
 #tinymce h6 { font-size: 1.18rem !important; font-weight: bold !important; }
 
+/* sidebar pagetree */
+div.acs-side-bar-content div.plugin_pagetree  li { margin: 0 !important; }
