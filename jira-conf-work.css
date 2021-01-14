@@ -10,3 +10,26 @@ body.aui-layout { font-family: "Segoe UI", "Ubuntu", "Droid Sans", 'Spoqa Han Sa
 
 /* jira layout */
 #announcement-banner { display: none; }
+
+/* headers */
+h1#title-text,
+#content-title { font-size: 1.6rem; font-weight: bold; }
+
+#main-content h1,
+#tinymce h1 { font-size: 1.6rem !important; font-weight: bold !important; }
+
+#main-content h2,
+#tinymce h2 { font-size: 1.45rem !important; font-weight: bold !important; }
+
+#main-content h3,
+#tinymce h3 { font-size: 1.35rem !important; font-weight: bold !important; }
+
+#main-content h4,
+#tinymce h4 { font-size: 1.25rem !important; font-weight: bold !important; }
+
+#main-content h5,
+#tinymce h5 { font-size: 1.25rem !important; font-weight: bold !important; }
+
+#main-content h6,
+#tinymce h6 { font-size: 1.18rem !important; font-weight: bold !important; }
+
