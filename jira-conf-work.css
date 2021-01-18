@@ -16,6 +16,10 @@ body {
 }
 #main-content { line-height: 1.6; }
 
+/* confluence layout */
+table.confluenceTable p { margin:0; }
+table.confluenceTable ul { margin:0; }
+
 /* jira layout */
 #announcement-banner { display: none; }
 
@@ -47,6 +51,6 @@ h1#title-text,
 #description-val h6,
 #tinymce h6 { font-size: 1.15rem !important; font-weight: bold !important; }
 
-/* sidebar pagetree */
+/* confluce sidebar pagetree */
 div.acs-side-bar-content div.plugin_pagetree  li { margin: 0 !important; }
 div.ia-secondary-container { margin: 0 0 0 0.5rem; }
