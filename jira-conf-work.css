@@ -49,3 +49,4 @@ h1#title-text,
 
 /* sidebar pagetree */
 div.acs-side-bar-content div.plugin_pagetree  li { margin: 0 !important; }
+div.ia-secondary-container { margin: 0 0 0 0.5rem; }
