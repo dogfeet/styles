@@ -41,15 +41,15 @@ h1#title-text,
 
 #main-content h4,
 #description-val h4,
-#tinymce h4 { font-size: 1.8rem !important; font-weight: bold !important; }
+#tinymce h4 { font-size: 1.18rem !important; font-weight: bold !important; }
 
 #main-content h5,
 #description-val h5,
-#tinymce h5 { font-size: 1.8rem !important; font-weight: bold !important; }
+#tinymce h5 { font-size: 1.18rem !important; font-weight: bold !important; }
 
 #main-content h6,
 #description-val h6,
-#tinymce h6 { font-size: 1.3rem !important; font-weight: bold !important; }
+#tinymce h6 { font-size: 1.13rem !important; font-weight: bold !important; }
 
 /* confluce sidebar pagetree */
 div.acs-side-bar-content div.plugin_pagetree  li { margin: 0 !important; }
