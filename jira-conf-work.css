@@ -1,12 +1,10 @@
 /* my workspace css for stylus */
 
-@import url(https://spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
-
 /* common font-family */
 body.aui-layout { font-family: "Noto Serif CJK KR", "Segoe UI", "Malgun Gothic", "Ubuntu", "Droid Sans", 'Spoqa Han Sans Neo', -apple-system, sans-serif; }
 
 /* common layout */
-#LGE_header_container,
+#LGE_header_container { display: none; }
 #announcement-banner { display: none; }
 
 body {
