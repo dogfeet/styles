@@ -6,7 +6,9 @@
 body.aui-layout { font-family: "Noto Serif CJK KR", "Segoe UI", "Malgun Gothic", "Ubuntu", "Droid Sans", 'Spoqa Han Sans Neo', -apple-system, sans-serif; }
 
 /* common layout */
-#LGE_header_container { display: none; }
+#LGE_header_container,
+#announcement-banner { display: none; }
+
 body {
     font-kerning: normal;
     font-variant-numeric: tabular-nums;
