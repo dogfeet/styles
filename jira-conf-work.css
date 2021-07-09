@@ -1,7 +1,9 @@
 /* my workspace css for stylus */
 
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
 /* common font-family */
-body.aui-layout { font-family: "Noto Serif CJK KR", "Segoe UI", "Malgun Gothic", "Ubuntu", "Droid Sans", 'Spoqa Han Sans Neo', -apple-system, sans-serif; }
+body.aui-layout { font-family: "Noto Sans KR", -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif; }
 
 /* common layout */
 #LGE_header_container { display: none; }
