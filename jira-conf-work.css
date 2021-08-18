@@ -53,6 +53,13 @@ h1#title-text,
 #description-val h6,
 #tinymce h6 { font-size: 1.13rem !important; font-weight: bold !important; }
 
-/* confluce sidebar pagetree */
+/* confluence sidebar pagetree */
 div.acs-side-bar-content div.plugin_pagetree  li { margin: 0 !important; }
 div.ia-secondary-container { margin: 0 0 0 0.5rem; }
+
+span.plugin_pagetree_children_span.plugin_pagetree_current {
+  font-weight: normal;
+  background-color: #d1ddf0;
+  border-top: 1px solid #acc0df;
+  border-bottom: 1px solid #acc0df;
+}
